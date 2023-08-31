@@ -2,7 +2,7 @@
 
 
 - Criação de um CRUD simples;
-- Sistema de login utilizando o firebase/autenticator
+- Sistema de login utilizando o firebase/authenticator
 
 #
 
